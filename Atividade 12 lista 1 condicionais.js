@@ -7,7 +7,7 @@ Mostrar mensagens "Avance X casas no tabuleiro!", sendo X o número que saiu no 
 let resultadoMoeda
 let resultadoDado
 
-resultadoMoeda = String(prompt('Qual o resultado da moeda?'))
+resultadoMoeda = prompt('Qual o resultado da moeda?')
 
 resultadoDado = Number(prompt('Qual o resultado do dado?'))
 
